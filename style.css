@@ -1,0 +1,135 @@
+body{
+    margin: 0px;
+    text-align: center;
+    
+}
+h1{
+ 
+   color:#1F509A;
+      font-family: "Dancing Script", cursive;
+      font-optical-sizing: auto;
+      font-weight: bold;
+      font-style: normal;
+      font-size: 50px;
+      
+    }
+   h2{ 
+    color: #5A6C57;
+    font-family: "Montserrat", sans-serif;
+    font-size: 2 rem;
+    font-weight: normal;
+    padding-bottom: 1px;
+   }
+  
+  p{
+    color:#40514e;;
+  
+    font-family: "Merriweather", serif;
+  
+  font-weight:lighter;
+ 
+}
+h3{
+    color: #11999e;
+    font-family: "Montserrat", sans-serif;
+    font-size: 25px;
+}
+  
+.top{
+    
+    background-color:lightcyan;
+    position: relative;
+    padding-top: 200px;
+    margin-bottom:0px;
+    
+}
+.image1{
+    position: absolute;
+    right: 200px;
+    top: 10px;
+    border-radius: 50%;
+}
+.image2{
+    position: absolute;
+    left:100px;
+    bottom: 25px;
+    border-radius: 50%;
+
+}
+.mid{
+   
+    position: relative;
+    padding: 10px;
+}
+    
+.photo{
+   
+    border-radius: 50%;
+    border:2px solid black;
+    margin: 0%;
+}
+p{
+    text-align: left;
+    font-size: large;
+}
+.mid{
+
+    padding: 10px;
+    margin: 0;
+}
+.project{
+    background-color: beige;
+    padding: 50px;
+}
+.first{
+    
+    margin:100px auto 100px auto;
+    width:50%;
+    text-align: left;
+}
+.second{
+    margin:100px auto 100px auto;
+    width:50%;
+    text-align: right;
+    
+}
+.img1{
+    float:left;
+    margin-right: 30px;
+    width:50%
+}
+.img2{
+    float: right;
+    margin-left: 30px;
+    width:50%
+}
+.btn{
+    background-color: #B3C8CF;
+    border-radius: 25%;
+    font-size: 20px;
+   }
+.bottom{
+    background-color: lightcyan;
+    margin-top: 10px;
+    padding: 100px;
+   }
+.footer{
+    margin: 15px 20px ;
+    color: #000;
+    border-radius: 10px;
+}
+.copy{
+    color: blue;
+    font-size: large;
+    text-align: center;
+
+}
+.contact > p{
+    
+    font-family: "Dancing Script", cursive;
+    font-weight: bold;
+      font-style: normal;
+      font-size: 40px;
+      text-align: center;
+
+}
